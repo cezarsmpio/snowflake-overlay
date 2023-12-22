@@ -2,18 +2,22 @@
 
 > Bring the xmas vibe to your stream!
 
+![Overlay demo](./docs/demo.gif)
+
 ## Sponsor
 
 This overlay is sponsored by [Overdeck](https://overdeck.app).
 
 Overdeck is a fully customisable mobile deck to control your stream. [Download now](https://overdeck.app/downloads) for free!
 
+![Overdeck](./docs/overdeck.png)
+
 ## How to use
 
 1. Go to your OBS or similar software
 1. Create a Browser source on your scene
 1. In the URL, add `https://snowflake-overlay.vercel.app/`
-1. Set the `Width` and `Height` to match your stream resolution. For example, if you stream in `1920x1080``, your `Width` will be `1920` and your `Height` will be `1080`.
+1. Set the `Width` and `Height` to match your stream resolution. For example, if you stream in ` 1920x1080``, your  `Width`will be`1920`and your`Height`will be`1080`.
 1. Leave the rest as is.
 
 **🔥 TIP**: Don't stretch your overlay! Set the `Width` and `Height` correctly instead for better results.
