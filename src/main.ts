@@ -6,7 +6,7 @@ const DEFAULT_FLAKES = 300;
 const MAX_FLAKES = 1000;
 const FLAKES = Number(PARAMS.get("flakes") ?? DEFAULT_FLAKES);
 
-const DEFAULT_SPEED = 1;
+const DEFAULT_SPEED = 0.5;
 const DEFAULT_SIZE = 1;
 const DEFAULT_WIND = 1;
 
